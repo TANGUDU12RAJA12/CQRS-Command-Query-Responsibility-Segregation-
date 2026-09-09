@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ProductManagementCQRS.Core/ProductManagementSystem.Core.csproj" />
+  <Project Path="ProductManagementSystem.Service/ProductManagementSystem.Service.csproj" />
+  <Project Path="ProductManagementSystem/ProductManagementSystem.Api.csproj" />
+</Solution>
